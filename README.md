@@ -1,2 +1,3 @@
 # mannyrivera2010.github.io
-Website
+Personal Static Website
+http://www.earasoft.com/
